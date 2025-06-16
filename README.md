@@ -11,7 +11,7 @@ Aplicação full-stack com front-end em React e back-end em Flask. Permite aos u
 - **Front-end:** React, TypeScript, CSS
 - **Back-end:** Flask, Flask-CORS
 - **Armazenamento:** Volátil (em memória)
-- **Implantação:** Firebase Studio (Front-end) + Replit ou Render (Back-end)
+- **Implantação:** Executada e testada localmente em ambiente de desenvolvimento, utilizando o sistema operacional Windows 10, com ferramentas como Node.js/npm (para o React) e Python (para o Flask). O front-end foi executado via servidor de desenvolvimento do React (localhost), e o back-end foi executado com o servidor interno do Flask, também em localhost.
 
 ---
 
